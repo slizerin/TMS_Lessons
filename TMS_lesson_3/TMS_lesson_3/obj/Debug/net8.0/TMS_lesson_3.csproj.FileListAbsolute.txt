@@ -1,0 +1,14 @@
+C:\Users\goret\source\repos\TMS_lesson_3\TMS_lesson_3\bin\Debug\net8.0\TMS_lesson_3.exe
+C:\Users\goret\source\repos\TMS_lesson_3\TMS_lesson_3\bin\Debug\net8.0\TMS_lesson_3.deps.json
+C:\Users\goret\source\repos\TMS_lesson_3\TMS_lesson_3\bin\Debug\net8.0\TMS_lesson_3.runtimeconfig.json
+C:\Users\goret\source\repos\TMS_lesson_3\TMS_lesson_3\bin\Debug\net8.0\TMS_lesson_3.dll
+C:\Users\goret\source\repos\TMS_lesson_3\TMS_lesson_3\bin\Debug\net8.0\TMS_lesson_3.pdb
+C:\Users\goret\source\repos\TMS_lesson_3\TMS_lesson_3\obj\Debug\net8.0\TMS_lesson_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goret\source\repos\TMS_lesson_3\TMS_lesson_3\obj\Debug\net8.0\TMS_lesson_3.AssemblyInfoInputs.cache
+C:\Users\goret\source\repos\TMS_lesson_3\TMS_lesson_3\obj\Debug\net8.0\TMS_lesson_3.AssemblyInfo.cs
+C:\Users\goret\source\repos\TMS_lesson_3\TMS_lesson_3\obj\Debug\net8.0\TMS_lesson_3.csproj.CoreCompileInputs.cache
+C:\Users\goret\source\repos\TMS_lesson_3\TMS_lesson_3\obj\Debug\net8.0\TMS_lesson_3.dll
+C:\Users\goret\source\repos\TMS_lesson_3\TMS_lesson_3\obj\Debug\net8.0\refint\TMS_lesson_3.dll
+C:\Users\goret\source\repos\TMS_lesson_3\TMS_lesson_3\obj\Debug\net8.0\TMS_lesson_3.pdb
+C:\Users\goret\source\repos\TMS_lesson_3\TMS_lesson_3\obj\Debug\net8.0\TMS_lesson_3.genruntimeconfig.cache
+C:\Users\goret\source\repos\TMS_lesson_3\TMS_lesson_3\obj\Debug\net8.0\ref\TMS_lesson_3.dll
